@@ -2,7 +2,6 @@
     padding: 0px;
     margin: 0px;
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 
@@ -210,7 +209,7 @@ li {
 #grid-item-horiseon {
     grid-row: span 1;
     grid-column: span 2;
-    background-image: url(./Images/code.jpg);
+    background-image: url(./Images/6.png);
     height: 300px;
     color: lightgrey;
     background-size: cover;
@@ -235,7 +234,7 @@ li {
 #grid-item-kicker {
     grid-row: span 1;
     grid-column: span 1;
-    background-image:url(./Images/skydive.jpg);
+    background-image:url(./Images/Password\ generator.png);
     color: lightgrey;
     background-size: cover;
     background-position: top left;
@@ -259,7 +258,7 @@ li {
 #grid-item-maze {
     grid-row: span 1;
     grid-column: span 1;
-    background-image:url(./Images/cave.jpg);
+    background-image:url(./Images/day\ planner.png);
     color: lightgrey;
     background-size: cover;
     background-position: top left;
@@ -304,7 +303,7 @@ li {
 #grid-item-space {
     grid-row: span 1;
     grid-column: span 1;
-    background-image:url(./Images/space.jpg);
+    background-image:url(./Images/code.jpg);
     background-size: cover;
     background-position: top left;
     transition: ease-in-out 300ms;
@@ -385,7 +384,7 @@ li {
     #grid-item-horiseon {
         grid-row: span 1;
         grid-column: span 1;
-        background-image: url(./Images/code.jpg);
+        background-image: url(./Images/6.png);
         height: 300px;
         color: lightgrey;
         background-size: cover;
